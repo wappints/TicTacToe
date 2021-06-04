@@ -17,7 +17,7 @@ where the player can relocate their respective marks after placing their third m
 
 ##THE TWIST
 1. When the players consumed their 3 moves, they will be given a chance to change the position of one of their past  moves and move it to a free space.
-2. To win the game, a player must mark 3 squares in a row in a specific place, not just anywhere.;
+2. To win the game, a player must mark 3 squares in a row in a specific place, not just anywhere.
 3. With these, this Tic Tac Toe game will never end in a tie.
 
 ## License
