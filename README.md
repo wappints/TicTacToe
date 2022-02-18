@@ -1,5 +1,5 @@
 # TicTacToe (With-A-Twist) 
-Second Term Project | Freshman Year | 
+Second Term Project | Freshman Year 
 
 Author/s: Yeohan Norona, Vincent Bacayan, Glena Estebal
 
